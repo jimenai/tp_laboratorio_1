@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1553612174 source:c:\users\alumno\trabajo practico 1 ibarra-1c\ingresos.c
+	"Ingresos.h"
+
+1553613365 source:c:\users\alumno\trabajo practico 1 ibarra-1c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ingresos.h"
+
+1553612132 c:\users\alumno\trabajo practico 1 ibarra-1c\ingresos.h
+
+1553613215 source:c:\users\alumno\trabajo practico 1 ibarra-1c\funcionesmatematicas.c
+
+1553960124 source:c:\users\jibarra\desktop\ejercicio-tarea-1-master\trabajo practico 1 ibarra-1c\ingresos.c
+	"Ingresos.h"
+
+1553960145 c:\users\jibarra\desktop\ejercicio-tarea-1-master\trabajo practico 1 ibarra-1c\ingresos.h
+
+1553958384 source:c:\users\jibarra\desktop\ejercicio-tarea-1-master\trabajo practico 1 ibarra-1c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ingresos.h"
+
+1553968468 source:c:\users\jibarra\desktop\ejercicio-tarea-1-master\trabajo practico 1 ibarra-1c\funcionesmatematicas.c
+	"FuncionesMatematicas.h"
+
+1553968401 source:c:\users\jibarra\desktop\ejercicio-tarea-1-master\trabajo practico 1 ibarra-1c\factorialnumeroentero.c
+	"FactorialNumeroEntero.h"
+
+1553968121 c:\users\jibarra\desktop\ejercicio-tarea-1-master\trabajo practico 1 ibarra-1c\factorialnumeroentero.h
+
+1553960087 c:\users\jibarra\desktop\ejercicio-tarea-1-master\trabajo practico 1 ibarra-1c\funcionesmatematicas.h
+
+1554406546 source:c:\users\jime\desktop\tp_laboratorio_1-master\trabajo practico 1 ibarra-1c\factorialnumeroentero.c
+	"FactorialNumeroEntero.h"
+
+1554406546 c:\users\jime\desktop\tp_laboratorio_1-master\trabajo practico 1 ibarra-1c\factorialnumeroentero.h
+
+1554406310 source:c:\users\jime\desktop\tp_laboratorio_1-master\trabajo practico 1 ibarra-1c\ingresos.c
+	"Ingresos.h"
+
+1554406310 c:\users\jime\desktop\tp_laboratorio_1-master\trabajo practico 1 ibarra-1c\ingresos.h
+
+1554406446 source:c:\users\jime\desktop\tp_laboratorio_1-master\trabajo practico 1 ibarra-1c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ingresos.h"
+	"FuncionesMatematicas.h"
+	"FactorialNumeroEntero.h"
+
+1554406520 c:\users\jime\desktop\tp_laboratorio_1-master\trabajo practico 1 ibarra-1c\funcionesmatematicas.h
+
+1554406520 source:c:\users\jime\desktop\tp_laboratorio_1-master\trabajo practico 1 ibarra-1c\funcionesmatematicas.c
+	"FuncionesMatematicas.h"
+
